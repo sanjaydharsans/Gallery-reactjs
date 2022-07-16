@@ -1,0 +1,15 @@
+body {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  background-color: #66BFBF;
+}
+
+.App {
+  text-align: center;
+  padding: 20px;
+  font-size: 26px;
+}
+
